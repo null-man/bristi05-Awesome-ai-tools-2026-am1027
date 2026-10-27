@@ -11,6 +11,9 @@ A curated list of amazing Artificial Intelligence tools, libraries, and resource
 | **Coding** | GitHub Copilot | AI pair programmer | [Visit](https://github.com/features/copilot) |
 | **LLMs** | ChatGPT | OpenAI Conversational AI | [Visit](https://chat.openai.com) |
 | **Design** | Midjourney | AI Image Generation | [Visit](https://midjourney.com) |
+| **Image/Video** | PromptImage | Free AI image & video studio with prompt library | [Visit](https://promptimage.cloud) |
+| **Design** | TeslaWraps | Free browser Tesla wrap designer (core editing free) | [Visit](https://teslawraps.design) |
+| **Video** | GrokVideo Studio | Independent Grok Imagine text/image-to-video | [Visit](https://grokvideogenerator.dev) |
 | **Search** | Perplexity AI | AI Search Engine | [Visit](https://perplexity.ai) |
 
 ---
