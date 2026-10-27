@@ -14,9 +14,9 @@ A curated list of amazing Artificial Intelligence tools, libraries, and resource
 | **Image/Video** | PromptImage | Free AI image & video studio with prompt library | [Visit](https://promptimage.cloud) |
 | **Design** | TeslaWraps | Free browser Tesla wrap designer (core editing free) | [Visit](https://teslawraps.design) |
 | **Video** | GrokVideo Studio | Independent Grok Imagine text/image-to-video | [Visit](https://grokvideogenerator.dev) |
-| **Video** | Alors On Danse Video Maker | Independent Grok Imagine text/image-to-video | [Visit](https://alorsondansevideo.com) |
-| **Video** | Bad Times AI | Independent Grok Imagine text/image-to-video | [Visit](https://badtimesai.dev) |
-| **Video** | I Found You in the Crowd AI | Independent Grok Imagine text/image-to-video | [Visit](https://ifoundyouinthecrowdai.com) |
+| **Video** | Alors On Danse Video Maker | Independent: two photos → 13s studio dance (Paid) | [Visit](https://alorsondansevideo.com) |
+| **Video** | Bad Times AI | Independent AI dance effect (Paid from $7.99) | [Visit](https://badtimesai.dev) |
+| **Video** | I Found You in the Crowd AI | Independent AI scene effect (Paid from $7.99) | [Visit](https://ifoundyouinthecrowdai.com) |
 | **Search** | Perplexity AI | AI Search Engine | [Visit](https://perplexity.ai) |
 
 ---
